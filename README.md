@@ -62,7 +62,7 @@ If you own e.g. `deliveryempire.app`:
 
 ## Things to review before publishing
 
-- Contact email: currently `mmertan2@gmail.com` in `privacy.html`,
+- Contact email: currently `ertansoftwaresolutions@gmail.com` in `privacy.html`,
   `terms.html`, `support.html`. Change if you'd prefer a different address.
 - Company name: currently `Ertan Apps` in the footer and Terms.
   Change if you operate under a different legal name.
